@@ -50,32 +50,32 @@ pip install nsepythonserver
 ## Demo Video
 
 - [Fetch data from nse website | Historical data |bhav copy | part 1](https://youtu.be/rN8E6yARtdg)
-fetches the price history of stocks
-fetches the price history of derivatives
-Daily Bhav Copy
-Index Historical PE, PB and Dividend Ratio
+-fetches the price history of stocks
+-fetches the price history of derivatives
+-Daily Bhav Copy
+-Index Historical PE, PB and Dividend Ratio
 
 - [How to pull Option Chain Data | Analyzing data | Expiry Dates | part 2](https://youtu.be/xNFjh4lUUbs)
-Fetch the expiry date of derivative contracts 
-Fetch the historical expiry date of derivative contracts
-Fetch Option chain data
-Options Chain Analysis
-All Expiry Option Chain Data
+-Fetch the expiry date of derivative contracts 
+-Fetch the historical expiry date of derivative contracts
+-Fetch Option chain data
+-Options Chain Analysis
+-All Expiry Option Chain Data
 
 - [How to scrape live Quotes from nse website | Volatility/delivery |live ltp | part 3](https://youtu.be/REc8VBwUlmQ)
-All equities in a single list
-Getting live equities Quotes 
-Getting Volatility/delivery data
-Getting live ltp
-Getting live derivative Quotes
+-All equities in a single list
+-Getting live equities Quotes 
+-Getting Volatility/delivery data
+-Getting live ltp
+-Getting live derivative Quotes
 
 - [How to extract daily stock data from nse website | Pre Market Data |NSE Deals | part 4](https://youtu.be/2FMdfxyCCEE)
-Find NSE Large Deals
-NSE FNO Participant Wise OI API
-NSE Most Active / Top Gainers / Top Looser / Most Active by Volume / Most Active by Value
-Fetch pre-open market data
-Stock Beta / NSE Holiday / Event Calendar / Company Results / Stocks that hit Upper circuit / Stocks that hit Lower circuit / Large Deals
-FII and DII trades data / Lot Size
+-Find NSE Large Deals
+-NSE FNO Participant Wise OI API
+-NSE Most Active / Top Gainers / Top Looser / Most Active by Volume / Most Active by Value
+-Fetch pre-open market data
+-Stock Beta / NSE Holiday / Event Calendar / Company Results / Stocks that hit Upper circuit / Stocks that hit Lower circuit / Large Deals
+-FII and DII trades data / Lot Size
 
 ## Cross Library Migration
 All the functions from the two renowned packages, NsepY and NSETools, have been migrated here with the same function names. Both of these packages had been left unmaintained for a considerable period.
